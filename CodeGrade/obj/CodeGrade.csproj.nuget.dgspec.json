@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jimmy\\OneDrive\\Bureaublad\\Algorithik\\CodeGrade\\CodeGrade.csproj": {}
+    "C:\\Users\\jimmy\\OneDrive\\Bureaublad\\DiscordProject\\CodeGrade\\CodeGrade\\CodeGrade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jimmy\\OneDrive\\Bureaublad\\Algorithik\\CodeGrade\\CodeGrade.csproj": {
+    "C:\\Users\\jimmy\\OneDrive\\Bureaublad\\DiscordProject\\CodeGrade\\CodeGrade\\CodeGrade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jimmy\\OneDrive\\Bureaublad\\Algorithik\\CodeGrade\\CodeGrade.csproj",
+        "projectUniqueName": "C:\\Users\\jimmy\\OneDrive\\Bureaublad\\DiscordProject\\CodeGrade\\CodeGrade\\CodeGrade.csproj",
         "projectName": "CodeGrade",
-        "projectPath": "C:\\Users\\jimmy\\OneDrive\\Bureaublad\\Algorithik\\CodeGrade\\CodeGrade.csproj",
+        "projectPath": "C:\\Users\\jimmy\\OneDrive\\Bureaublad\\DiscordProject\\CodeGrade\\CodeGrade\\CodeGrade.csproj",
         "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jimmy\\OneDrive\\Bureaublad\\Algorithik\\CodeGrade\\obj\\",
+        "outputPath": "C:\\Users\\jimmy\\OneDrive\\Bureaublad\\DiscordProject\\CodeGrade\\CodeGrade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
